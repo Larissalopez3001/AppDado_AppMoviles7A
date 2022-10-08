@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppDado</string>
+    <string name="button">Button</string>
+    <string name="roll">Roll</string>
+    <string name="todo">TODO</string>
+    <string name="por_favor_presione_el_bot_n_para_lanzar_el_dado">Por favor, presione el botón para lanzar el dado</string>
+    <string name="bienvenidos">Bienvenidos</string>
+    <string name="tirar">Tirar</string>
+    <string name="por_favor_presione_para_tirar_el_dado">Por favor, presione para tirar el dado.</string>
+    <string name="por_favor_presione_el_bot_n_para_tirar_el_dado">Por favor, presione el botón para tirar el dado.</string>
+</resources>
